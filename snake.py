@@ -10,3 +10,4 @@ while running:
         if event.type == pg.QUIT:
             running = False
 
+pg.quit()
