@@ -2,4 +2,4 @@ import pygame as pg
 
 pg.init()
 
-screen=
+screen=pg.display
