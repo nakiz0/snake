@@ -2,4 +2,4 @@ import pygame as pg
 
 pg.init()
 
-screen=pg.display
+screen=pg.display.set_mode((
