@@ -3,4 +3,7 @@ b=2
 c=3
 
 temp=a
-a=b a
+a=b
+b=c
+d
+
