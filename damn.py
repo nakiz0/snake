@@ -5,5 +5,4 @@ c=3
 temp=a
 a=b
 b=c
-d
-
+c=
