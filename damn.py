@@ -7,5 +7,8 @@ a=b
 b=c
 c=temp 
 
-print(a,b,c);asdad 
+print(a,b,c)
+print("a:", a)
+print("b:", b)
+print("c:", c)
  
