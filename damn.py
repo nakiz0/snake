@@ -1,4 +1,4 @@
 import pandas as pd
 
 a=1
-b=
+b=2
