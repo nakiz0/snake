@@ -5,4 +5,7 @@ c=3
 temp=a
 a=b
 b=c
-c=
+c=temp 
+
+print(a,b,c);asdad 
+ 
