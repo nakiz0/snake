@@ -12,3 +12,5 @@ print("a:", a)
 print("b:", b)
 print("c:", c)
  
+ if a>b and a>c:
+    print("a is the largest")
